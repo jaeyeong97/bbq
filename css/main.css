@@ -269,6 +269,9 @@
 #main .main_slide .main3 {
   background-image: url(../img/main_img3_mo.back.jpeg);
 }
+#main .main_slide .main4 {
+  background-image: url(../img/main_img4_back.jpg);
+}
 #main .main_slide .main_img {
   padding: 0 30px;
   box-sizing: border-box;
