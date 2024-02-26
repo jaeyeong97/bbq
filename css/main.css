@@ -499,6 +499,7 @@
 }
 #section1 .s1_list li a {
   position: relative;
+  display: block;
 }
 #section1 .s1l_img img {
   width: 100%;
