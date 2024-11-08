@@ -334,7 +334,7 @@
 .f_logo {
   width: 76px;
   height: 34px;
-  background-image: url(../img/bbq_f.png);
+  background-image: url(../img/bbq_f.webp);
   background-size: 100% auto;
   text-indent: -9999px;
   margin-bottom: 20px;
@@ -366,13 +366,13 @@
   margin-right: 10px;
 }
 .f_insta a {
-  background-image: url(../img/insta.png);
+  background-image: url(../img/insta.webp);
 }
 .f_fb a {
-  background-image: url(../img/fb.png);
+  background-image: url(../img/fb.webp);
 }
 .f_x a {
-  background-image: url(../img/X.png);
+  background-image: url(../img/X.webp);
 }
 .f_reserved {
   font-size: 12px;

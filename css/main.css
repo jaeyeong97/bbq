@@ -251,7 +251,7 @@
   position: relative;
 }
 #main:hover {
-  cursor: url(../img/pointer.png) 0 10, auto;
+  cursor: url(../img/pointer.webp) 0 10, auto;
 }
 #main .main_slide .main1,
 #main .main_slide .main2,
@@ -261,16 +261,16 @@
   background-repeat: no-repeat;
 }
 #main .main_slide .main1 {
-  background-image: url(../img/main_img1_backg.jpg);
+  background-image: url(../img/main_img1_backg.webp);
 }
 #main .main_slide .main2 {
-  background-image: url(../img/main_img2_back.jpg);
+  background-image: url(../img/main_img2_back.webp);
 }
 #main .main_slide .main3 {
-  background-image: url(../img/main_img3_mo.back.jpeg);
+  background-image: url(../img/main_img3_mo.back.webp);
 }
 #main .main_slide .main4 {
-  background-image: url(../img/main_img4_back.jpg);
+  background-image: url(../img/main_img4_back.webp);
 }
 #main .main_slide .main_img {
   padding: 0 30px;
@@ -526,7 +526,7 @@
   flex-direction: column;
   justify-content: center;
   height: 100%;
-  background-image: url(../img/s3_back.jpg);
+  background-image: url(../img/s3_back.webp);
   background-size: cover;
   background-attachment: fixed;
   padding-bottom: 50px;
@@ -784,7 +784,7 @@
 .f_logo {
   width: 76px;
   height: 34px;
-  background-image: url(../img/bbq_f.png);
+  background-image: url(../img/bbq_f.webp);
   background-size: 100% auto;
   text-indent: -9999px;
   margin-bottom: 20px;
@@ -816,13 +816,13 @@
   margin-right: 10px;
 }
 .f_insta a {
-  background-image: url(../img/insta.png);
+  background-image: url(../img/insta.webp);
 }
 .f_fb a {
-  background-image: url(../img/fb.png);
+  background-image: url(../img/fb.webp);
 }
 .f_x a {
-  background-image: url(../img/X.png);
+  background-image: url(../img/X.webp);
 }
 .f_reserved {
   font-size: 12px;
@@ -840,7 +840,7 @@
     display: block;
   }
   #main .main_slide .main3 {
-    background-image: url(../img/main_img3_pc.back.jpeg);
+    background-image: url(../img/main_img3_pc.back.webp);
   }
   .menu_side {
     width: 50vw;
